@@ -6,7 +6,7 @@ author: '[Rich Raposa](https://github.com/rfraposa), [Alexey Milovidov](https://
 tags: ['company', 'community']
 ---
 
-We're continuing our monthly release cadence and blog updates at[ ClickHouse, Inc](https://clickhouse.com/blog/en/2021/clickhouse-inc/). Let's highlight some of these new exciting new capabilities in 21.12:
+We're continuing our monthly release cadence and blog updates at[ ClickHouse, Inc](https://clickhouse.com/blog/en/2021/clickhouse-inc/). We would like to thank the 125 committers for their contribution of 2,460 commits. Let's highlight some of these new exciting new capabilities in 21.12:
 
 ## Bool data type
 
